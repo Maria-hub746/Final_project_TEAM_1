@@ -87,7 +87,7 @@ _docker run -p 8000:8000 prediction_app_
 
 - Alexandr Frankevich, https://github.com/AlexanderF048
 
-- Maria Volochnyuk, https://github.com/Maria-hub746
+- Mariia Volochniuk, https://github.com/Maria-hub746
 
 - Yaroslav Push, https://github.com/Invil124
 
